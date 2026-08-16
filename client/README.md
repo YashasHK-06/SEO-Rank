@@ -63,11 +63,11 @@ npm run preview
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details
 
 ## Code of Conduct
 
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in our community.
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in our community
 
 ## License
 
